@@ -22,8 +22,9 @@ def estaciones_cercanas(lat, lon, limite):
     return sorted(data, key=lambda x: x["distancia_km"])[:limite]
 
 # ================= LA PÁGINA WEB =================
-st.set_page_config(page_title="🚓 Estaciones Cercanas", page_icon="🚓")
-st.title("🚓 Estaciones policiales más cercanas")
+st.set_page_config(page_title="Estaciones Cercanas", page_icon="🚓")
+st.title("🚓Estaciones policiales más cercanas")
+st.caption("By: Claudia Aguilar")
 st.caption("Proyecto de Computación en la Nube. Ingresa tus coordenadas y presiona **Buscar**.")
 
 c1, c2, c3 = st.columns(3)
