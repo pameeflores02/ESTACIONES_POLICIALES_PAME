@@ -1,0 +1,8 @@
+[
+  { "nombre": "UDEP-1 Atlántida (Centro)",        "lat": 15.7597, "lon": -86.7822 },
+  { "nombre": "Estación Policial Bonitillo",       "lat": 15.7689, "lon": -86.8065 },
+  { "nombre": "Posta Policial Satuyé",             "lat": 15.7744, "lon": -86.7293 },
+  { "nombre": "Posta Policial Col. San Isidro",    "lat": 15.7684, "lon": -86.7738 },
+  { "nombre": "Posta Policial Bonito Atlántida",   "lat": 15.7620, "lon": -86.8150 },
+  { "nombre": "Posta Policial Villa Guadalupe",    "lat": 15.7545, "lon": -86.7955 }
+]
